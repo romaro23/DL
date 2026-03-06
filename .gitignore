@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow/Keras
+*.h5
+*.keras
+checkpoint
+*.ckpt.*
+*.ckpt
+
+# PyTorch
+*.pth
+*.pt
+
+# ONNX
+*.onnx
+
+# Logs
+*.log
+
+# Data files
+*.csv
+datasets/
+data/
+
+# Archives
+*.zip
+*.tar.gz
